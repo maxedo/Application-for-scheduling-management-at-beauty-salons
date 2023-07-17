@@ -1,0 +1,2 @@
+PUT http://localhost:5000/recenzie
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywiaWF0IjoxNjgwNTE4ODQxLCJleHAiOjE2ODA1MjI0NDF9.4tcxILgynExTkEtKRGbPzg2oO252vVUV9Uc1jFHiwuE
